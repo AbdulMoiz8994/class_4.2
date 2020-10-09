@@ -1,0 +1,10 @@
+.box{
+  height: 400px;
+  background-color: blueviolet;
+}
+.changecolor{
+  background-color: chartreuse;
+}
+.end{
+  text-align: center;
+}
