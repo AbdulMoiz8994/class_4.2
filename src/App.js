@@ -20,6 +20,7 @@ function App() {
       }>Update Counter</button>    
       <button onClick={()=>newChanging(!chnaging)}>Change color</button>
       <p className="end">This is end of project</p>
+      <Message message="Thank you PIAIC"/>
     </div>
   );
 }
